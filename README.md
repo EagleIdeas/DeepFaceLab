@@ -1,3 +1,5 @@
+REF https://www.youtube.com/watch?v=G0z50Am4Uw4
+
 ﻿<table align="center" border="0"><tr><td align="center" width="9999">
 
 # DeepFaceLab  
